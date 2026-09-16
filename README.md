@@ -1,13 +1,14 @@
 [中文](README_CN.md)
 
-# Spatial Vivid Standards Documents
+# Spatial Vivid Series Standards Documents
 
-This repository provides the Chinese and English documents for the UHD World Association (UWA) Spatial Vivid standard. The standard specifies a format for six-degrees-of-freedom (6DoF) interactive 3D images, including glTF-based storage, 3D Gaussian Splatting (3DGS) compression and decoding, and ISOBMFF-based encapsulation.
+This repository provides the Chinese and English documents for T/UWA 050-2026, *Six Degrees of Freedom (6DoF) Interactive 3D Image Format*, one of the standards in the UHD World Association (UWA) Spatial Vivid series. This standard specifies a format for 6DoF interactive 3D images, including glTF-based storage, 3D Gaussian Splatting (3DGS) compression and decoding, and ISOBMFF-based encapsulation.
 
 ## Standard Information
 
 | Item | Information |
 | --- | --- |
+| Standard series | Spatial Vivid series standards |
 | Standard number | T/UWA 050-2026 |
 | English title | Six Degrees of Freedom (6DoF) Interactive 3D Image Format |
 | Chinese title | 支持六自由度交互的三维图像格式 |

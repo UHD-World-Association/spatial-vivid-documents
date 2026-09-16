@@ -1,13 +1,14 @@
 [English](README.md)
 
-# Spatial Vivid 标准文档
+# Spatial Vivid 系列标准文档
 
-本仓库提供世界超高清视频产业联盟（UWA）Spatial Vivid 标准的中英文文档。该标准规定了支持六自由度（6DoF）交互的三维图像格式，包括基于 glTF 的存储、三维高斯泼溅（3DGS）压缩与解码，以及基于 ISOBMFF 的封装。
+本仓库提供 T/UWA 050-2026《支持六自由度交互的三维图像格式》的中英文文档。该标准是世界超高清视频产业联盟（UWA）Spatial Vivid 系列标准之一，规定了支持六自由度（6DoF）交互的三维图像格式，包括基于 glTF 的存储、三维高斯泼溅（3DGS）压缩与解码，以及基于 ISOBMFF 的封装。
 
 ## 标准信息
 
 | 项目 | 信息 |
 | --- | --- |
+| 所属系列 | Spatial Vivid 系列标准 |
 | 标准号 | T/UWA 050-2026 |
 | 中文名称 | 支持六自由度交互的三维图像格式 |
 | 英文名称 | Six Degrees of Freedom (6DoF) Interactive 3D Image Format |
