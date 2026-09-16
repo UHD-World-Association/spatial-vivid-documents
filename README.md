@@ -2,13 +2,20 @@
 
 # Spatial Vivid Series Standards Documents
 
-This repository provides the Chinese and English documents for T/UWA 050-2026, *Six Degrees of Freedom (6DoF) Interactive 3D Image Format*, one of the standards in the UHD World Association (UWA) Spatial Vivid series. This standard specifies a format for 6DoF interactive 3D images, including glTF-based storage, 3D Gaussian Splatting (3DGS) compression and decoding, and ISOBMFF-based encapsulation.
+This repository hosts documents for the Spatial Vivid series standards published by the UHD World Association (UWA). It provides a central location for the Chinese and English editions of these standards, together with links to their related reference tool repositories.
 
-## Standard Information
+The repository currently contains the following standard.
+
+## Available Standards
+
+### T/UWA 050-2026
+
+*Six Degrees of Freedom (6DoF) Interactive 3D Image Format* specifies a format for 6DoF interactive 3D images, including glTF-based storage, 3D Gaussian Splatting (3DGS) compression and decoding, and ISOBMFF-based encapsulation.
+
+#### Standard Information
 
 | Item | Information |
 | --- | --- |
-| Standard series | Spatial Vivid series standards |
 | Standard number | T/UWA 050-2026 |
 | English title | Six Degrees of Freedom (6DoF) Interactive 3D Image Format |
 | Chinese title | 支持六自由度交互的三维图像格式 |
@@ -16,12 +23,12 @@ This repository provides the Chinese and English documents for T/UWA 050-2026, *
 | Publication date | May 28, 2026 |
 | Publisher | UHD World Association (UWA) |
 
-## Standard Documents
+#### Documents
 
 - [English edition](documents/T-UWA-050-2026_6DoF-Interactive-3D-Image-Format_EN.pdf)
 - [Chinese edition](documents/T-UWA-050-2026_支持六自由度交互的三维图像格式_CN.pdf)
 
-## Reference Tool Repositories
+#### Reference Tool Repositories
 
 | Repository | Description |
 | --- | --- |
@@ -30,4 +37,4 @@ This repository provides the Chinese and English documents for T/UWA 050-2026, *
 
 ## Notice
 
-The standard documents are published by the UHD World Association. The linked reference implementations are maintained in separate repositories and are governed by the licenses and third-party notices included in those repositories.
+The standard documents are published by the UHD World Association. Linked reference implementations are maintained in separate repositories and are governed by the licenses and third-party notices included in those repositories.
