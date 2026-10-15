@@ -1,0 +1,5 @@
+# Source archives used to prepare Markdown editions.
+documents/*.zip
+documents/**/*.zip
+documents/*.rar
+documents/**/*.rar
